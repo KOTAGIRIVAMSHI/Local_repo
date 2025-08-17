@@ -1,3 +1,35 @@
+h1{
+    font-family: 'georgia';
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h3{
+    font-family: 'georgia';
+text-align: center;
+    
+}
+h4{
+    font-family: 'georgia';
+text-align: center;
+    
+}
 p{
-    color:red;
+    font-family: 'arial';
+    text-align: center;
+    color:  red;
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(000, 255, 000);
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: blueviolet;
+    
+}
+textarea{
+    color: black;
 }
